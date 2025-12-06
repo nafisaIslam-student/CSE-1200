@@ -88,10 +88,11 @@ Monster attacks must be fought to progress. Collect mirrors within a time limit.
 ### ** Object Collection 1 **
 <img width="664" height="393" alt="Screenshot 2025-10-13 214717" src="https://github.com/user-attachments/assets/a946fc4a-0852-4796-9ae5-e5f7344bd508" />
 
+### ** Main boss  **
+<img width="664" height="393" alt="Screenshot 2025-10-13 215738" src="https://github.com/user-attachments/assets/5560bb9b-b725-4ad8-a961-fd67ceff703d" />
 
 ### ** Object Collection 2  **
 <img width="664" height="393" alt="Screenshot 2025-10-13 215738" src="https://github.com/user-attachments/assets/b0f603a1-bf83-4356-8680-3c742632930d" />
-
 
 ### ** Death Scene  **
 <img width="664" height="393" alt="Screenshot 2025-10-13 214548" src="https://github.com/user-attachments/assets/8fba922d-6d30-4fec-a30b-118208f16f97" />
