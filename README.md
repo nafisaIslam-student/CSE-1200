@@ -54,8 +54,12 @@ Monster attacks must be fought to progress. Collect mirrors within a time limit.
 - Madhobi Bardhan 
 - Ayesha Binte Habib
 - Nafisa Islam
-
+  
 ## Screenshorts
+
+### ** Interface  **
+<img width="664" height="393" alt="Screenshot 2025-10-13 222523" src="https://github.com/user-attachments/assets/844ffc91-52ac-4bd3-94ad-cf250f09f54a" />
+
 
 ### ** Menu  **
 <img width="664" height="393" alt="Screenshot 2025-10-13 222523" src="https://github.com/user-attachments/assets/a3bf7a6e-7d97-4085-a78e-d8d2a82e0fd3" />
@@ -91,8 +95,10 @@ Monster attacks must be fought to progress. Collect mirrors within a time limit.
 ### ** Main boss  **
 <img width="664" height="393" alt="Screenshot 2025-10-13 215738" src="https://github.com/user-attachments/assets/5560bb9b-b725-4ad8-a961-fd67ceff703d" />
 
+
 ### ** Object Collection 2  **
 <img width="664" height="393" alt="Screenshot 2025-10-13 215738" src="https://github.com/user-attachments/assets/b0f603a1-bf83-4356-8680-3c742632930d" />
+
 
 ### ** Death Scene  **
 <img width="664" height="393" alt="Screenshot 2025-10-13 214548" src="https://github.com/user-attachments/assets/8fba922d-6d30-4fec-a30b-118208f16f97" />
